@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    padding: 10px;
+}
+
+.div-header{
+    align-items: center;
+}
+
+.img-logo{
+    width: 50px;
+}
+
+.img-logo-2{
+    width: 80px;
+}
+
+.img-logo-3{
+    width: 250px;
+}
+
+.img-insta{
+    width: 30px;
+}
+
+.img{
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.card-img-1{
+    background-image: url("../assets/home-lg.jpg");
+    
+}
+
+.card-img-2{
+    background-image: url("../assets/header-lg.jpg");
+}
+
+.card-img-3{
+    background-image: url("../assets/actividades-sm.jpg");
+}
+
+.container-img{
+    height: 100%;
+}
+
+.content{
+    position: absolute;
+    right: 5vw;
+    bottom: 5vw;
+    text-align: center;
+    border: none;
+}
+
+.bg-green {
+    background-color: #28a745;
+}
+
+.card-title{
+    padding: 15px 10vw;
+}
+
+.bg-azul-claro{
+    background-color: #3092fc;
+    color: white;
+}
+
+.texto{
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+
+footer {
+    background: #3c4146;
+    color: white;
+    padding: 40px;
+}
+
+textarea{
+    height: 75px;
+}
+
+.carousel-item img {
+    max-height: 500px; 
+    object-fit: contain; 
+  }
+
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: black !important; 
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  fill: black !important; 
+}
