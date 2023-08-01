@@ -1,3 +1,3 @@
 # Proyecto Integrador
 
-Fase 1
+Primera fase del proyecto integrador
